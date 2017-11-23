@@ -1,6 +1,6 @@
 ### 说明
 
-- 阿里热修复框架sophix集成sample ---[讲解博客地址](http://www.jianshu.com/p/adcc45e154cd)
+- 阿里热修复框架sophix集成sample ---[讲解博客地址](http://www.jianshu.com/p/939a1e4ed604)
 
 
 
