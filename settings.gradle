@@ -1,1 +1,1 @@
-include  ':sophixtest'
+include ':sophixtest', ':myapplication'

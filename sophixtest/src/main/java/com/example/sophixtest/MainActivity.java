@@ -8,6 +8,7 @@ import android.os.Handler;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.ImageView;
+import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -19,13 +20,6 @@ public class MainActivity extends AppCompatActivity {
 
         requestPermission();
 
-        final ImageView imageView = (ImageView) findViewById(R.id.imageView);
-        new Handler().postDelayed(new Runnable() {
-            @Override
-            public void run() {
-                imageView.setImageResource(R.drawable.add);
-            }
-        },1500);
     }
 
 

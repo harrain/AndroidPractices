@@ -82,4 +82,6 @@ public class SophixStubApplication extends SophixApplication {
     public void queryAndLoadNewPatch(){
         SophixManager.getInstance().queryAndLoadNewPatch();
     }
+
+
 }
